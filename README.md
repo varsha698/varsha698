@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 Hey, I'm Varshini Bhavanam
+# ✨ Hey, I'm Varshini Bhavanam ✨
 
-### CS Student @ UMN Duluth · Builder · Tech for Good
+### 💕 CS Student @ UMN Duluth · Builder · Tech for Good 💕
 
-[![Portfolio](https://img.shields.io/badge/ Portfolio-varsha698.github.io-2ea044?style=for-the-badge&logo=github&logoColor=white)](https://varsha698.github.io/portfolio-website/#/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshini-bhavanam-559b76339)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varsha698)
+[![Portfolio](https://img.shields.io/badge/✨_Portfolio-varsha698.github.io-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://varsha698.github.io/portfolio-website/#/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-db2777?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshini-bhavanam-559b76339)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-f472b6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varsha698)
 
 </div>
 
 ---
 
-### 🧭 About Me
+### 💗 About Me
 
-- 🎓 **Computer Science** student at University of Minnesota Duluth
-- 💻 Passionate about building tech that **solves real problems**
+- 🎀 **Computer Science** student at University of Minnesota Duluth
+- 💖 Passionate about building tech that **solves real problems**
 - 📱 Creator of **PantryPal** — a mobile app supporting food access in communities
 - ☁️ Building DevOps workflows & exploring NLP
-- 🌎 Advocating for diversity & inclusion in tech
+- 🌸 Advocating for diversity & inclusion in tech
 
 ---
 
@@ -45,6 +45,6 @@
 
 <div align="center">
 
-*Building things that matter*
+*💕 Building things that matter 💕*
 
 </div>
