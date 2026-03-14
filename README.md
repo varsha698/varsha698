@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hey, I'm Varshini Bhavanam ✨
+# ✨ Hey, I'm Varsha ✨
 
 ### 💕 CS Student @ UMN Duluth · Builder · Tech for Good 💕
 
