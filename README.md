@@ -22,6 +22,16 @@
 
 ---
 
+### 💖 Featured Projects
+
+- 🏢 **Operations Platform** *(professional work)* — architected a **~20-service platform** running a multi-state lawn-care & snow-removal business end-to-end: a Rails ERP for live customer enrollment, route automation across 7 OptimoRoute accounts, a real-time lead CRM, an email engine tested across **3,000+ campaigns**, automated Stripe billing & payroll, and React/Next.js sites &nbsp;·&nbsp; `Rails 8` `Python` `React` `Stripe` `Airtable`
+- 📈 **[AI-Model-Stock-Analysis](https://github.com/varsha698/AI-Model-Stock-Analysis)** — quantitative research framework turning price, news-sentiment & macro data into probabilistic trading signals &nbsp;·&nbsp; `Python` `FastAPI` `XGBoost` `LSTM` `FinBERT`
+- ✍️ **[ai-doc-editor](https://github.com/varsha698/ai-doc-editor)** — local-first AI writing studio: a Tiptap editor backed by on-device LLMs with RAG & LoRA style personalization &nbsp;·&nbsp; `Next.js 15` `PyTorch` `ChromaDB`
+- 🥫 **[PantryPal](https://github.com/varsha698/PantryPalApp)** — cross-platform app supporting food access for low-income families & students &nbsp;·&nbsp; `Flutter` `Firebase`
+- 🧠 **[Quiz-Generator](https://github.com/varsha698/Quiz-Generator)** — AI quiz platform from text & PDF/image uploads (OCR), with PWA support & full CI &nbsp;·&nbsp; `Angular` `Node` `MongoDB`
+
+---
+
 ### 📊 Contribution Graph
 
 <p align="center">
